@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+#menu p{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.Container{
+    font-size: 18px;
+    color: bisque;
+}
+
+.Items{
+    font-size: 18px;
+    color: burlywood;
+}

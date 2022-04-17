@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+    color: rgba(19, 18, 18, 0.699);
+}
+
+.menu{
+    color: white;
+}
+
+#container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 90vw;
+    justify-content: space-around;
+    align-items: stretch;
+    border: 2px solid blue;
+    padding: 1em;
+}
+
+.photo{  
+    width: 20%;
+    margin: 0.5em;
+    border: 2px solid salmon;
+    text-align: center;
+}
+
+.photo img{
+    margin-top: 0.5em;
+    width: 80%;
+    border: 2px solid snow;
+}
+
+.text{
+    margin: 1em;
+    background-color: lightblue;
+}
+
+.title{
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.description{
+    font-size: 1.2em;
+    font-style: italic;
+}
